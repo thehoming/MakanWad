@@ -1,0 +1,40 @@
+Timestamp,Shop Name,Good or Bad,Location,Shop Type,Food Type,Price Range,Recommend?,Remarks,Nearest MRT Code
+11/14/2021 19:13:01,Tian Tian Hainanese Chicken Rice,Whitelist,Maxwell Food Center,Food Center,"Lunch, Dinner",$ (SGD 0-6),5,,TE18
+11/14/2021 19:13:36,San Xi Hainansse Chicken,Whitelist,Eunos Crescent Food Center,Food Center,"Breakfast, Lunch, Dinner",$ (SGD 0-6),5,,EW7
+11/14/2021 19:14:40,Yew Chuan Clay Plot Rice,Whitelist,Golden Mile Food Center,Food Center,"Lunch, Dinner",$$ (SGD 7-13),5,,CC5
+11/14/2021 19:22:17,Nam Sing Shrimp Fried Mee,Whitelist,Orchard Ion Food Republic,Food Center,"Lunch, Dinner",$$ (SGD 7-13),5,,NS22 TE14
+11/14/2021 19:24:50,Mr Coconut ,Whitelist,PLQ Mall,Drinks,Drinks,$ (SGD 0-6),5,,EW8 CC9
+11/14/2021 19:26:41,Hop Kee,Whitelist,Newton Food Center,Food Center,"Lunch, Dinner",$$ (SGD 7-13),5,Oyster Cake/Omlett,G
+11/14/2021 19:32:51,Ah Balling Peanut Soup,Whitelist,Golden Mile Food Center,Food Center,Dessert,$ (SGD 0-6),4,湯圓,CC5
+11/14/2021 19:34:35,Jia Bin Bak Kut Teh,Whitelist,Farrer Park MRT,Restaurant,"Lunch, Dinner",$$ (SGD 7-13),5,Black BKT,NE8
+11/14/2021 23:36:16,Geylang Clay Pot Rice,Whitelist,Nicoll Highway ,Restaurant,"Lunch, Dinner",$$ (SGD 7-13),5,Order 30 mins in advance,CC5
+11/18/2021 17:38:36,Xiang Ji Hainanese Chicken Rice,Whitelist,Hang Road Food Center,Food Center,"Lunch, Dinner",$ (SGD 0-6),5,,EW8 CC9
+11/20/2021 13:24:13,Dunman Duckrice,Whitelist,Dunman Food Center,Food Center,"Lunch, Dinner",$ (SGD 0-6),4,,EW8 CC9
+11/21/2021 19:43:05,Big Fish Small Fish,Whitelist,Bugis Junction,Restaurant,"Lunch, Dinner",$$$ (SGD 13-20),4,,EW12 DT14
+11/22/2021 18:54:56,Lao Fu Zi Fried Kway Teow,Whitelist,Old Airport Road Food Center,Food Center,"Lunch, Dinner",$ (SGD 0-6),5,,CC8
+11/24/2021 23:06:37,JUMBO Seafood,Whitelist,Clarke Quay,Restaurant,Dinner,$$$$$(SGD26+),5,Need to book in advance,NE5
+11/26/2021 22:05:59,Newton 51,Whitelist,Newton Food Center,Food Center,"Lunch, Dinner",$$ (SGD 7-13),5,Hokkien Shrimp Mee with fresh shrimp ,NS21 DT11
+11/28/2021 16:24:36,Good Bites,Whitelist,Bishan Stadium,Restaurant,"Lunch, Dinner",$$$ (SGD 13-20),5,Crowded. Might sit outside. ,NS17 CC15
+12/5/2021 19:42:27,Veganburg ,Whitelist,Eunos ,Restaurant,"Lunch, Dinner",$$$ (SGD 13-20),5,Vegan,EW7
+12/11/2021 12:13:19,Tong Ah Eat House,Whitelist,Outram Park,Restaurant,"Breakfast, Lunch",$ (SGD 0-6),5,Kaya Toast and Kopi,EW8 CC9
+1/3/2022 9:19:47,Monster Curry,Whitelist,Suntec City,Restaurant,"Lunch, Dinner",$$$ (SGD 13-20),5,Large bowl,CC3
+1/4/2022 20:32:07,PAUL,Whitelist,Ngee Ann City,Restaurant,"Lunch, Dinner",$$$$$(SGD26+),4,Questionable seat cleanliness ,NS22 TE14
+1/4/2022 20:33:12,Tiong Bahru Bakery,Whitelist,Fort Canning Park,Restaurant,"Snacks, Tea",$$$ (SGD 13-20),4,,DT20
+1/4/2022 20:35:01,Keong Saik Bakery,Whitelist,Outram Park,Restaurant,"Snacks, Tea, Dessert",$$ (SGD 7-13),5,Cheesecake,EW16 NE3 TE17
+1/7/2022 21:41:23,d.o.c,Whitelist,Tanjong Pagar,Restaurant,Dinner,$$$$$(SGD26+),5,Pizza ,EW15
+4/13/2022 14:59:40,Hock Hai (Hong Lun) Curry Chicken Noodle,Whitelist,Bedok Interchange Food Center,Food Center,"Lunch, Dinner",$ (SGD 0-6),5,Satay bee hoon,EW5
+4/13/2022 15:00:56,Tewchew Beef Kway Teow,Whitelist,Amoy Street Food Center,Food Center,"Lunch, Dinner",$ (SGD 0-6),5,,EW15
+4/19/2022 23:58:40,Albert Street Prawn Noodles,Whitelist,Old Airport Road Food Center,Food Center,Lunch,$$ (SGD 7-13),5,,CC8
+4/26/2022 19:16:45,Jiak Song,Whitelist,Bedok South,Food Center,"Lunch, Dinner",$$ (SGD 7-13),5,"Noodles, flat kind.  Chewy texture. ",EW5
+4/30/2022 12:44:58,Bedok Beef Kway Teow,Whitelist,Changi Village Food Center,Food Center,"Lunch, Dinner",$ (SGD 0-6),5,,EW1
+5/16/2022 13:08:11,Gyunami,Whitelist,Orchard Gateway,Restaurant,"Lunch, Dinner",$$$ (SGD 13-20),4,Small portions. Rare beef. ,NS23
+5/16/2022 13:40:48,HVALA,Whitelist,111 Somerset ,Drinks,"Drinks, Dessert",$$ (SGD 7-13),5,,NS23
+6/1/2022 20:10:50,328 Katong Laksa,Whitelist,Near I12,Restaurant,"Lunch, Dinner",$$ (SGD 7-13),5,,EW8 CC9
+7/16/2022 20:19:38,Yishun 925 Chicken Rice,Whitelist,Ang Mo Kio,Food Center,"Lunch, Dinner",$ (SGD 0-6),5,,NS16
+9/15/2022 22:39:54,Beach Road Prawn Mee,Whitelist,Katong,Restaurant,"Breakfast, Lunch",$$ (SGD 7-13),4,Long queue,EW8 CC9
+9/17/2022 10:05:39,House of White Beehoon,Whitelist,Punggol point,Restaurant,"Lunch, Dinner",$$$ (SGD 13-20),5,Mala is good but quite spicy ,NE17
+9/17/2022 10:06:49,Creamier Ice Cream - Northshore,Whitelist,Northshore Plaza (Punggol Coast),Restaurant,Dessert,$$ (SGD 7-13),5,,NE17
+9/17/2022 10:08:39,Bugis Street Chuen Chuen Chicken Rice,Whitelist,Eunos,Restaurant,"Breakfast, Lunch",$ (SGD 0-6),5,,EW7
+9/17/2022 13:47:45,Fahrenheit Coffee,Whitelist,Bugis,Drinks,Drinks,$ (SGD 0-6),4,,EW12 DT14
+10/29/2022 13:30:28,Boon Tong Kee,Whitelist,River Valley,Restaurant,"Lunch, Dinner",$$$ (SGD 13-20),5,Chicken Rice,TE15
+10/29/2022 13:31:21,Katong Laksa (George),Whitelist,Eunos near Telok Kurau Lor G,Food Center,"Breakfast, Lunch",$ (SGD 0-6),5,Laksa,EW7
